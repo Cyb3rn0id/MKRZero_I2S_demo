@@ -25,3 +25,7 @@ You need a FAT32 formatted microSD card. You can load on the microSD WAV files (
 Since someone asked me explainings about how I've done the menu system, I made a simple schematic about how menu works:
 
 ![menu](menu.png)
+
+### Links
+- [Video about this demo](https://youtu.be/EKtnCzgrEhQ)
+- [Detailed article](https://www.settorezero.com/wordpress/wav-player-con-arduino-mkr-zero/)

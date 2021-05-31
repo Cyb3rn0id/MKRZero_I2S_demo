@@ -5,6 +5,9 @@
  by Bernardo Giovanni (@cyb3rn0id)
  https://www.settorezero.com 
  
+ Video about this demo: https://youtu.be/EKtnCzgrEhQ
+ Detailed article:  https://www.settorezero.com/wordpress/wav-player-con-arduino-mkr-zero/ 
+ 
  Libraries to be installed:
  - Adafruit ILI9341
  - Adafruit GFX
